@@ -1,3 +1,3 @@
-I'm in my pastel pink era so I made an RStudio theme to go with it. It makes me happy, hopefully it makes you happy too.
+This is my repository for the custom RStudio themes that I create.
 
-If you have any problems with it let me know, I designed it around my appearance settings in RStudio so it's possible I haven't considered all aspects of the theme.
+If you're interested in making your own, check out my brief introduction: https://benharrap.com/post/2024-01-19-rstudio-noodle-theme/
