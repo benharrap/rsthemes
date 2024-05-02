@@ -245,6 +245,7 @@
 .xtermHidden { visibility: hidden; }
 .xtermItalic { font-style: italic; }
 .xtermStrike { text-decoration: line-through; }
+/* Terminal text colours */
 .xtermColor0 { color: #2e3436 !important; }
 .xtermBgColor0 { background-color: #2e3436; }
 .xtermColor1 { color: #cc0000 !important; }
@@ -265,8 +266,9 @@
 .xtermBgColor8 { background-color: #555753; }
 .xtermColor9 { color: #ef2929 !important; }
 .xtermBgColor9 { background-color: #ef2929; }
-.xtermColor10 { color: #8ae234 !important; }
-.xtermBgColor10 { background-color: #8ae234; }
+/* Terminal input colour */
+.xtermColor10 { color: #00006B !important; }
+.xtermBgColor10 { background-color: #00006B; }
 .xtermColor11 { color: #fce94f !important; }
 .xtermBgColor11 { background-color: #fce94f; }
 .xtermColor12 { color: #729fcf !important; }
