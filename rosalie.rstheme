@@ -18,14 +18,14 @@
 /* R */
 .ace_comment { color: #9db0b4; }
 .ace_keyword, .ace_meta, .ace_support.ace_constant { color: #db5d38; }
-.ace_keyword.ace_operator { color: #6d865a; font-weight: normal; }
+.ace_keyword.ace_operator { color: #37746d; font-weight: normal; }
 .ace_string { color: #b58f37; }
 .ace_constant.ace_numeric { color: #6d865a; }
 .ace_constant.ace_language { color: #db5d38; }
 .ace_identifier.ace_support.ace_function { color: #3c4c72; }
 
 /* Quarto */
-.ace_meta.ace_tag { color: #db5d38; font-weight: normal; }
+.ace_meta.ace_tag { color: #37746d; font-weight: normal; }
 .ace_heading, .ace_markup.ace_heading { color: #273b36; }
 .ace_constant.ace_language.ace_boolean.ace_text { color: #df7f6d; }
 .ace_constant.ace_numeric.ace_text { color: #37746d; }
